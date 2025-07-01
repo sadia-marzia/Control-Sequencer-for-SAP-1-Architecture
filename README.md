@@ -2,11 +2,11 @@
 This project implements a control sequencer for the SAP-1 (Simple As Possible) architecture. The sequencer coordinates the execution of a 6 T-state instruction cycle (fetch and execute phases) for instructions including LDA, LDB, ADD, SUB, OUT, and HLT. 
 
 ### Circuit Diagram
-![Circuit Diagram](images/SAP.png)
+![Circuit Diagram](SAP.png)
 
 Figure 1: SAP-1 Architecture Diagram
 
-![Circuit Diagram](images/CS.png)
+![Circuit Diagram](CS.png)
 
 Figure 2: Control Sequencer Diagram
 
